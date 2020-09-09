@@ -1,0 +1,448 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\MainDemo.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File001]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\externalref.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File002]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\internalfont C30.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File003]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\SST39VF040.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File004]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\internalbitmap C30.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File005]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\GOLFontDefault.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File006]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\Primitive.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File007]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\DisplayDriver.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File008]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\TimeDelay.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File009]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\SST25VF016.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File010]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\gfxepmp.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File011]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\FlashProgrammer.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File012]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\SST39LF400.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File013]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\UART.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File014]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\Beep.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File015]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\MainDemo.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c|C:\Microchip DA210 Images\Board Support Package\TouchScreen.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File016]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\externalref.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File017]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\internalfont C30.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File018]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\SST39VF040.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File019]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\internalbitmap C30.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File020]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\GOLFontDefault.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File021]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\Primitive.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File022]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\DisplayDriver.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File023]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\TimeDelay.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File024]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\SST25VF016.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File025]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\gfxepmp.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File026]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\FlashProgrammer.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File027]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\SST39LF400.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File028]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\UART.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File029]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\Objects - Graphics External Memory Demo\Beep.o
+Folder=Intermediary
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall -mlarge-code -mlarge-data -mlarge-scalar -Os
+TraceCmdString=
+DebugOptions=-D__DEBUG -D__MPLAB_DEBUGGER_REAL_ICE=1
+[File030]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\External Memory Demo PIC24.cof
+Folder=Output
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(TARGETBASE).map"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_REAL_ICE=1 --defsym=__ICD2RAM=1
+[File031]
+Location=C:\Microchip Solutions v2010-10-19\Graphics External Memory Programmer and Demo\External Memory Demo PIC24.hex
+Folder=Output
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(TARGETBASE).map"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_REAL_ICE=1 --defsym=__ICD2RAM=1
+[File032]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\External Memory Demo PIC24.cof
+Folder=Output
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(TARGETBASE).map"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_REAL_ICE=1 --defsym=__ICD2RAM=1
+[File033]
+Location=C:\Microchip DA210 Images\Graphics External Memory Programmer and Demo\External Memory Demo PIC24.hex
+Folder=Output
+DeviceName=PIC24FJ256DA210
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)|Objects - Graphics External Memory Demo||$(AINDIR)||$(INCDIR)|..\Board Support Package;.;..\Microchip\Include||$(LIBDIR)|C:\Program Files\Microchip\MPLAB C30\lib||$(LKRDIR)||
+SOLK=<src>|MainDemo.c|externalref.c|internalfont C30.c|..\Board Support Package\SST39VF040.c|internalbitmap C30.c|..\Microchip\Graphics\GOLFontDefault.c|..\Microchip\Graphics\Primitive.c|..\Microchip\Graphics\DisplayDriver.c|..\Microchip\Common\TimeDelay.c|..\Board Support Package\SST25VF016.c|..\Microchip\Graphics\Drivers\gfxepmp.c|FlashProgrammer.c|..\Board Support Package\SST39LF400.c|UART.c|..\Board Support Package\Beep.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(TARGETBASE).map"
+TraceCmdString=
+DebugOptions=--defsym=__MPLAB_DEBUG=1 --defsym=__MPLAB_DEBUGGER_REAL_ICE=1 --defsym=__ICD2RAM=1
+[TOOL_LOC_STAMPS]
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files\Microchip\mplabc30\v3.30b\bin\pic30-ld.exe
